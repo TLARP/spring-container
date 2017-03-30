@@ -15,9 +15,8 @@
  *
  */
 
-package com.bit.oclous.beans;
+package com.bit.oclous.beans.factory;
 
-import com.bit.oclous.beans.support.BeansException;
 import com.bit.oclous.core.ResolvableType;
 
 /**

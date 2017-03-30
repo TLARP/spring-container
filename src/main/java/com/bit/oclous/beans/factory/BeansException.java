@@ -1,4 +1,4 @@
-package com.bit.oclous.beans.support;
+package com.bit.oclous.beans.factory;
 
 /**
  * Created by hzwangqiqing
